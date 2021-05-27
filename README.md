@@ -1,3 +1,3 @@
 # KW
-Simple website sitting on Github
-Simple Git Project
+IDE - Visual Studio Code
+To visit site - https://kalpanawalhe.github.io/KW/Index.html
